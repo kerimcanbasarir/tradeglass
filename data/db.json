@@ -1,0 +1,108 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "image": "../images/c1.png",
+      "category": "RENAULT",
+      "name": "CLIO",
+      "model": "1.0 SCe Joy",
+      "price": 642400,
+      "product_year": 2023,
+      "km": 20904,
+      "gear": "Manuel",
+      "fuel": "Benzin",
+      "KDV_percentage": 20
+    },
+    {
+      "id": 2,
+      "image": "../images/c2.png",
+      "category": "DACIA",
+      "name": "SANDERO",
+      "model": "1.0 Tce Prestige X-Tronic",
+      "price": 712400,
+      "product_year": 2021,
+      "km": 27693,
+      "gear": "Otomatik",
+      "fuel": "Benzin",
+      "KDV_percentage": 20
+    },
+    {
+      "id": 3,
+      "image": "../images/c3.png",
+      "category": "FIAT",
+      "name": "DOBLO",
+      "model": "1.6 MultiJet Easy",
+      "price": 657400,
+      "product_year": 2022,
+      "km": 44186,
+      "gear": "Manuel",
+      "fuel": "Dizel",
+      "KDV_percentage": 20
+    },
+    {
+      "id": 4,
+      "image": "../images/c4.png",
+      "category": "NISSAN",
+      "name": "QASHQAI",
+      "model": "1.3 DIG-T 12V MHEV Design Pack X-tronic",
+      "price": 1234400,
+      "product_year": 2022,
+      "km": 32592,
+      "gear": "Otomatik",
+      "fuel": "Hybrid(Elektrik/Benzin)",
+      "KDV_percentage": 20
+    },
+    {
+      "id": 5,
+      "image": "../images/c5.png",
+      "category": "RENAULT",
+      "name": "ZOE",
+      "model": "80 Kw Z.E 50 Intense CVT",
+      "price": 964400,
+      "product_year": 2022,
+      "km": 9084,
+      "gear": "Otomatik",
+      "fuel": "Elektrik",
+      "KDV_percentage": 20
+    },
+    {
+      "id": 6,
+      "image": "../images/c6.png",
+      "category": "CITROEN",
+      "name": "C3 AIRCROSS",
+      "model": "1.5 BlueHDI Feel Bold EAT6",
+      "price": 914400,
+      "product_year": 2022,
+      "km": 18511,
+      "gear": "Otomatik",
+      "fuel": "Dizel",
+      "KDV_percentage": 20
+    },
+    {
+      "id": 7,
+      "image": "../images/c7.png",
+      "category": "CITROEN",
+      "name": "C3 AIRCROSS",
+      "model": "1.5 BlueHDI Feel Bold EAT6",
+      "price": 864400,
+      "product_year": 2022,
+      "km": 11480,
+      "gear": "Otomatik",
+      "fuel": "Dizel",
+      "KDV_percentage": 20
+    },
+    {
+      "id": 8,
+      "image": "../images/c8.png",
+      "category": "BMW",
+      "name": "2 SERISI",
+      "model": "218i Luxury Line Otomatik",
+      "price": 1656400,
+      "product_year": 2022,
+      "km": 59936,
+      "gear": "Otomatik",
+      "fuel": "Benzin",
+      "KDV_percentage": 20
+    }
+  ]
+}
